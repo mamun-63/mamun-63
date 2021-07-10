@@ -3,7 +3,7 @@
 <p>
 Always looking for opportunities to work on something new and improving my skills each day! 🚀
 <br/>
-I have worked with React and Firebase and have a strong Mindset to learn MERN stack to become a Full Stack Developer.  
+I have learned React previously, currently working with Vue js, Nuxt js and have a strong Mindset to learn to become a Full Stack Developer.  
 </p>  
 
 <!-- <div align="center">
