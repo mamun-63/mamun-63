@@ -3,7 +3,7 @@
 <p>
 Always looking for opportunities to work on something new and improving my skills each day! 🚀
 <br/>
-I have learned React previously, currently working with Vue js, Nuxt js, vuetify, Tailwindcss and have a strong Mindset to learn to become a Full Stack Developer.  
+I have been working with React js, React Native, Vue js, Nuxt js, TypeScript, vuetify, Ant Design, Tailwindcss and have a strong Mindset to learn to become a Full Stack Developer.  
 </p>  
 
 <!-- <div align="center">
