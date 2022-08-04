@@ -32,7 +32,7 @@ I have been working with React js, React Native, Vue js, Nuxt js, TypeScript, Vu
 
 ### Connect with ME
 
-<a href="#">
+<a href="https://www.linkedin.com/in/abdullah-al-mamun-3088181b7" target="_blank">
   <img align="left" alt="Abdullah's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -40,7 +40,7 @@ I have been working with React js, React Native, Vue js, Nuxt js, TypeScript, Vu
   <img align="left" alt="Abdullah's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<a href="https://codeforces.com/submissions/Mamun_63">
+<a href="https://codeforces.com/submissions/Mamun_63" target="_blank">
   <img align="left" alt="Abdullah's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/codeforces.svg" />
 </a>
 
